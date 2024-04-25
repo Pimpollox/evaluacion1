@@ -1,0 +1,52 @@
+body{
+    background-color: #dddddd;
+}
+
+footer{
+    background-color: gray;
+    width: 53%;
+    padding: 5px 15px;
+    text-align: center;
+    margin: auto;
+}
+
+#boton{
+    color:white;
+    background-color: red;
+    border-radius: 7px;
+    font-size: 15px;
+}
+
+#contenedor{
+    text-align: left;
+    width: 55%;
+    margin: auto;
+}
+
+#cont-imagen{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#cont-text{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#cont{
+    text-align: left;
+    width: 60%;
+    margin: auto;
+}
+
+#cont-b{
+    text-align: center;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

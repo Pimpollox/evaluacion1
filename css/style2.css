@@ -1,0 +1,55 @@
+body{
+    background-color: red;
+}
+
+footer{
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+#titulo{
+    background-color: black;
+    color:white;
+    width: 100%;
+    text-align: right;
+}
+
+#imagen{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+}
+
+#sections{
+    background-color: aliceblue;
+}
+
+li{
+    display: inline;
+    width: 10%;
+    text-align: center;
+    margin-left: 100px;
+}
+
+#sect-auto{
+    background-color: black;
+    width: 100%;
+}
+
+#auto{
+    display: inline;
+    width: 100%;
+    text-align: left;
+    margin-left: 5px;
+}
